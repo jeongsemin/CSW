@@ -1,0 +1,5 @@
+﻿  sw.cpp
+C:\Users\najsm\source\repos\sw3-1\ChangeDir.h(23,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\najsm\source\repos\sw3-1\ChangeDir.h(23,26): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\najsm\source\repos\sw3-1\Direction.h(96): warning C4715: 'BlockDown': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  sw3-1.vcxproj -> C:\Users\najsm\source\repos\sw3-1\Debug\sw3-1.exe
